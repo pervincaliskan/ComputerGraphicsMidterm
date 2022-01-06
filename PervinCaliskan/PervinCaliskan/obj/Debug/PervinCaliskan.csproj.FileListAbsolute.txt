@@ -1,0 +1,14 @@
+C:\Users\a\source\repos\PervinCaliskan\PervinCaliskan\obj\Debug\PervinCaliskan.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\PervinCaliskan\PervinCaliskan\obj\Debug\PervinCaliskan.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\PervinCaliskan\PervinCaliskan\bin\Debug\PervinCaliskan.exe.config
+C:\Users\a\source\repos\PervinCaliskan\PervinCaliskan\bin\Debug\PervinCaliskan.exe
+C:\Users\a\source\repos\PervinCaliskan\PervinCaliskan\bin\Debug\PervinCaliskan.pdb
+C:\Users\a\source\repos\PervinCaliskan\PervinCaliskan\obj\Debug\PervinCaliskan.exe
+C:\Users\a\source\repos\PervinCaliskan\PervinCaliskan\obj\Debug\PervinCaliskan.pdb
+C:\Users\a\Downloads\PervinCaliskan\PervinCaliskan\PervinCaliskan\bin\Debug\PervinCaliskan.exe.config
+C:\Users\a\Downloads\PervinCaliskan\PervinCaliskan\PervinCaliskan\bin\Debug\PervinCaliskan.exe
+C:\Users\a\Downloads\PervinCaliskan\PervinCaliskan\PervinCaliskan\bin\Debug\PervinCaliskan.pdb
+C:\Users\a\Downloads\PervinCaliskan\PervinCaliskan\PervinCaliskan\obj\Debug\PervinCaliskan.csproj.AssemblyReference.cache
+C:\Users\a\Downloads\PervinCaliskan\PervinCaliskan\PervinCaliskan\obj\Debug\PervinCaliskan.csproj.CoreCompileInputs.cache
+C:\Users\a\Downloads\PervinCaliskan\PervinCaliskan\PervinCaliskan\obj\Debug\PervinCaliskan.exe
+C:\Users\a\Downloads\PervinCaliskan\PervinCaliskan\PervinCaliskan\obj\Debug\PervinCaliskan.pdb
